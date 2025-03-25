@@ -59,6 +59,7 @@ nav{
     overflow: hidden;
     transition: .3s ease;
     box-shadow: 0 3px 5px rgba(0,0,0,0.2);
+    list-style-type: default;
 }
 
 
